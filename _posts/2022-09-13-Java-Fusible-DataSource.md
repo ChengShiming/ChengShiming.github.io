@@ -22,4 +22,4 @@ Java Web服务接入第三方数据源时，可能会间歇性出现第三方数
 当通过`JdbcTemplate`执行sql时，先调用`getCircuitState()`判断数据源运行状态，数据源处于熔断状态时可以让调用方快速失败。
 
 ___
-本文完整源代码地址：https://github.com/ChengShiming/Java-web-wheel
+**本文完整源代码地址：<https://github.com/ChengShiming/Java-web-wheel>**
